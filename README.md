@@ -66,7 +66,7 @@ Focus: Performance stability, UX validation, and cross-platform reliability.
 
 📧 Email: vishwarathnayake27@gmail.com 
 
-🌐 Portfolio: vishwa-rathnayake.vercel.app 
+🌐 Portfolio: vishwarathnayake.vercel.app 
 
 <div align="center">
 
