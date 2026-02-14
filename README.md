@@ -1,89 +1,74 @@
-# Hi there! 👋 I'm Vishwa0527
+Hi there! 👋 I'm Vishwa Rathnayake
+Software Quality Assurance Engineer | Full-Stack Developer
+I am a technical QA professional and developer dedicated to building high-performance applications and ensuring they are bulletproof. My expertise lies in the intersection of robust development and sophisticated automation, with a focus on ERP architectures and AI-driven testing suites.
 
-Welcome to my GitHub profile! I'm a passionate developer dedicated to creating meaningful solutions through code.
+🎯 About Me
+🛡️ ISTQB® Certified: Foundation Level (CTFL) v4.0.
 
-## 🎯 About Me
+🏗️ Architectural QA: Recently proposed and validated the modernized Inventory architecture for AgriGen ERP.
 
-- 💻 Full-stack developer with expertise in modern web technologies
-- 🚀 Passionate about building scalable and efficient applications
-- 📚 Continuous learner always exploring new technologies
-- 🤝 Open to collaborations and contributing to open-source projects
+⚡ Performance Engineer: Specialized in Load, Smoke, and Race Condition testing using K6 and JMeter.
++3
 
-## 🛠️ Tech Stack
+🤖 AI Automator: Leveraging "Vibe Coding" for rapid, resilient test script generation with Playwright and Cypress.
 
-**Languages:**
-- Python
-- JavaScript / TypeScript
-- Java
-- SQL
+🛠️ Full-Stack Foundation: Experienced in building and testing scalable web applications using React, Java, and SQL.
++3
 
-**Frontend:**
-- React
-- Vue.js
-- HTML5 & CSS3
+🛠️ Tech Stack & Toolkit
+Quality Assurance & Performance:
 
-**Backend:**
-- Node.js
-- Django
-- Express.js
 
-**Tools & Platforms:**
-- Git & GitHub
-- Docker
-- AWS
-- VS Code
+Automation: Playwright, Cypress, Selenium WebDriver, Testim, TestNG, Cucumber.
++4
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishwa0527&show_icons=true&theme=radical)
+Performance: K6, JMeter (Load & Smoke testing).
++3
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwa0527&layout=compact&theme=radical)
 
-## 🎓 Featured Projects
+Manual & API: Postman, Swagger, SQL (MSSQL, MySQL).
++4
 
-### Project 1: [Project Name]
-A brief description of your project and what it does.
-- **Tech Stack:** Technology used
-- **Features:** Key features
-- [Repository Link](https://github.com/Vishwa0527/project-name)
+Development & DevOps:
 
-### Project 2: [Project Name]
-A brief description of your project and what it does.
-- **Tech Stack:** Technology used
-- **Features:** Key features
-- [Repository Link](https://github.com/Vishwa0527/project-name)
 
-## 🤝 Let's Connect
+Languages: Java, JavaScript / TypeScript, SQL, HTML.
++2
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: [your-website.com](https://your-website.com)
 
-## 📈 What I'm Currently Working On
+Frameworks: React, Next.js (Supabase integration).
 
-- 🔭 Working on [current project]
-- 🌱 Learning [technology/skill]
-- 💡 Exploring [topic of interest]
 
-## 💬 Fun Facts
+Platforms: Azure DevOps (Test Management & CI/CD), GitHub, Docker.
++1
 
-- ⚡ Fun fact about yourself
-- 🎮 Hobbies or interests
-- 🎵 Music preference or other interests
+📊 GitHub Stats
+🎓 Featured Projects
+AgriGen ERP - Modern Inventory System
+Redesigned the module architecture and spearheaded the full-cycle QA process to ensure complex business logic alignment.
++1
 
-## 🏆 Achievements & Contributions
+Tech: Cypress, Azure DevOps, K6.
 
-- Contributed to [project name]
-- Open-source maintainer of [project]
-- [Award or recognition]
 
----
+Impact: Validated accounting, sales, and production workflows for zero-defect production releases.
+
+Freelance QA & Development
+Providing end-to-end quality audits and development for high-traffic platforms.
+
+Projects: TicketBox.lk, Boodima, Crafteye.
+
+Focus: Performance stability, UX validation, and cross-platform reliability.
+
+🤝 Let's Connect
+💼 LinkedIn 
+
+📧 Email: vishwarathnayake27@gmail.com 
+
+🌐 Portfolio: vishwa-rathnayake.vercel.app 
 
 <div align="center">
-  
-### "Code is poetry written in logic" 💭
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vishwa0527&color=blue)
-
+"Code is poetry; Testing is the editor that makes it a masterpiece." 💭
 </div>
